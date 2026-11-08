@@ -1,5 +1,10 @@
 <p align="center">
-  <a href="https://www.gdgocipb.com"><img src="https://www.gdgocipb.com/brand/og-image.jpg" alt="Kampus IPB bergaya voxel dengan Gedung Andi Hakim Nasoetion dan Chrome Dino, bertuliskan “Belajar teknologi bareng GDGoC IPB”." width="720"></a>
+  <a href="https://www.gdgocipb.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdgoc-ipb-university/.github/main/profile/banner-dark.png">
+      <img src="https://raw.githubusercontent.com/gdgoc-ipb-university/.github/main/profile/banner-light.png" alt="Logo blok GDGoC IPB University 2026/2027 dengan label gdgocipb.com dan Bogor, Indonesia, dikelilingi piksel warna Google.">
+    </picture>
+  </a>
 </p>
 
 # GDGoC IPB University
